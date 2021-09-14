@@ -19,15 +19,26 @@
 Projeto utilizando Spring-Boot & Angular
     <br />
     <br />
+    <a href="https://github.com/jeferson0993/todo-fullstack-frontend/">Projeto Frontend</a>
+    .
     <a href="https://github.com/jeferson0993/todo-fullstack-backend/issues">Reportar Erro</a>
     ·
     <a href="http://jeferson0993.github.io/">Outros Projetos</a>
   </p>
 </p>
 
+<!-- frontend -->
+### 
+
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
-![2021-09-14-144231_1024x768_scrot](https://user-images.githubusercontent.com/29678099/133308312-7a62134d-619c-42d6-b419-5e2a4b890620.png)
+VISÃO FUNCIONAL:
+Neste projeto tem-se uma aplicação web completa, CRUD (CREATE, READ, UPDATE e DELETE) de um sistema de Todo, gerenciando suas atividades e afazeres.
+
+VISÃO TÉCNICA - BACK END:
+API Rest usando Java com Spring Boot 2.x.x e banco de dados relacional. JPA com Hibernate, validação de dados, tratamento de exceções, uso adequado do protocolo HTTP no padrão REST...
+
+Versão: Spring Boot 2.3.x
 
 ### Feito com
 Java e banco de dados:
